@@ -1,59 +1,13 @@
-## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You can add spheres, cubes, cylinders and other 3D shapes to a scene. 
 
-### What you will make
+![The 3D object menu showing available 3D objects including sphere, cube, plane, cylinders.](images/3d-object-list.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Right-click in the Hierarchy and choose '3D Object' and then the shape of your choice. 
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+You can also right-click on a shape in the Hierarchy and add more shapes as child objects. You can position child objects relative to the parent so that they will move with the parent if you reposition it. 
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![The Hierarchy window showing 3D shape child objects that together make a tree.](images/tree-hierarchy.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+![A 3D tree made from spheres and a cylinder.](images/3d-shapes-tree.png)
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
