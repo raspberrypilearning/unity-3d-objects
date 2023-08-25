@@ -1,9 +1,9 @@
 
-You can add spheres, cubes, cylinders and other 3D shapes to a scene.
+You can add spheres, cubes, cylinders, and other 3D shapes to a scene.
 
-![The 3D object menu showing available 3D objects including sphere, cube, plane, cylinders.](images/3d-object-list.png)
+![The 3D Object menu showing available 3D objects including sphere, cube, plane, and cylinder.](images/3d-object-list.png)
 
-Right-click in the Hierarchy window and create an 'Empty' 3D object to act as a container for the whole item.
+Right-click in the Hierarchy window and create an **Empty** 3D Object to act as a container for the whole item.
 
 ![The Hierarchy window with right-click menu expanded and 'Create Empty' selected.](images/empty-object.png)
 
