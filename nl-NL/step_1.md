@@ -1,9 +1,9 @@
 
-Je kunt bollen, kubussen, cilinders en andere 3D-vormen toevoegen aan een scène.
+You can add spheres, cubes, cylinders, and other 3D shapes to a scene.
 
-![Het 3D object menu met beschikbare 3D-objecten, waaronder bol, kubus, vlak, cilinders.](images/3d-object-list.png)
+![The 3D Object menu showing available 3D objects including sphere, cube, plane, and cylinder.](images/3d-object-list.png)
 
-Klik met de rechtermuisknop in het Hierarchy venster en maak een 'Empty' 3D-object aan dat fungeert als een container voor het hele item.
+Right-click in the Hierarchy window and create an **Empty** 3D Object to act as a container for the whole item.
 
 ![Het Hierarchy venster met rechtsklikmenu is uitgevouwen en 'Create Empty' geselecteerd.](images/empty-object.png)
 
