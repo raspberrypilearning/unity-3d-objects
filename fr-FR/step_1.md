@@ -1,15 +1,15 @@
 
-You can add spheres, cubes, cylinders, and other 3D shapes to a scene.
+Tu peux ajouter des sphères, des cubes, des cylindres et d'autres formes 3D à une scène.
 
-![The 3D Object menu showing available 3D objects including sphere, cube, plane, and cylinder.](images/3d-object-list.png)
+![Le menu 3D Object montre les objets 3D disponibles, notamment la sphère, le cube, le plan et le cylindre.](images/3d-object-list.png)
 
-Right-click in the Hierarchy window and create an **Empty** 3D Object to act as a container for the whole item.
+Fais un clic droit dans la fenêtre Hierarchy et crée un 3D Object **Vide** qui servira de conteneur à l'ensemble de l'article.
 
-![The Hierarchy window with right-click menu expanded and 'Create Empty' selected.](images/empty-object.png)
+![La fenêtre Hierarchy avec le menu du clic droit développé et « Create Empty » sélectionné.](images/empty-object.png)
 
-Right-click on the new empty GameObject and add shapes as child GameObjects. You can position child objects relative to the parent so that they will move with the parent if you reposition it.
+Fais un clic droit sur le nouveau GameObject vide et ajoute des formes en tant que GameObjects enfants. Tu peux positionner les objets enfants par rapport au parent de façon à ce qu'ils se déplacent avec le parent si tu le repositionnes.
 
-![The Hierarchy window showing 3D shape child objects that together make a tree.](images/tree-hierarchy.png)
+![La fenêtre Hierarchy montre les objets enfants de forme 3D qui, ensemble, forment un arbre.](images/tree-hierarchy.png)
 
-![A 3D tree made from spheres and a cylinder.](images/3d-shapes-tree.png)
+![Un arbre en 3D composé de sphères et d'un cylindre.](images/3d-shapes-tree.png)
 
